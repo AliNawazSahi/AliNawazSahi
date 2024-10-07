@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @AliNawazSahi
-- # 💫 About Me:
+ 👋 Hi, I’m @AliNawazSahi
+ # 💫 About Me:
 I am a passionate Software Developer, I love to build applications related web. My expertise is Full Stack developer and WordPress Plugin Developer
 
 
